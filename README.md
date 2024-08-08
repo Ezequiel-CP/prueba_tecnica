@@ -4,9 +4,9 @@ El siguiente repositorio fue creado para construir y ejecutar una aplicación de
 
 ## Requerimientos
 
-Tener una instalación local o remota de docker y el plugin docker-compose
-Acceso a internet para la descarga de la imagen base de docker-hub
-Contar con conocimientos basicos de ejecución de comando en terminal
+* Tener una instalación local o remota de docker y el plugin docker-compose
+* Acceso a internet para la descarga de la imagen base de docker-hub
+* Contar con conocimientos basicos de ejecución de comando en terminal
 
 ## Ejecución
 
