@@ -10,7 +10,7 @@ El siguiente repositorio fue creado para construir y ejecutar una aplicación de
 
 ## Ejecución
 
-Después de descragdo el repositorio, moverse dentro del directorio "prueba_tecnica" para ejecutar el siguiente comando:
+Después de descargar el repositorio, moverse dentro del directorio "prueba_tecnica" para ejecutar el siguiente comando:
 
 ```
 docker-compose up -d
